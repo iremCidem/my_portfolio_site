@@ -1,0 +1,73 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    background-color: #dfd3c3;
+ }
+ .photo{
+    width: 500px;
+}
+
+.photo-1{
+    position: absolute;
+   top: 70px;
+   left: 40px;
+
+}
+.photo-1:hover{
+border: 8px solid purple;
+}
+.photo-2 {
+    position: absolute;
+   top:170px;
+   left: -50px;
+}
+.photo-2:hover {
+    border:8px solid orange;
+}
+.photo-3 {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    
+}
+.photo-3:hover {
+    border: 8px solid rgba(0, 140, 255, 0.589);
+}
+.photo:hover{
+    z-index: 1;
+   padding: 5px;
+}
+
+.app{
+    
+    text-align: center;
+    margin-top: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: #596e79;
+ border-bottom: 1px solid ;
+}
+.center{
+height: 88vh;
+ display: grid;
+ place-items:center;
+
+}
+.width{
+    max-width: 30rem;
+    font-size: 2rem;
+}
+.text{
+    font-size: 1.5rem;
+    color: #596e79;
+}
+.text-2{
+    font-size: 16px;
+   font-family:'Courier New', Courier, monospace;
+   font-weight: 300;
+}
+.btn{
+    margin-top: 8px;
+}
+
