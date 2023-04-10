@@ -19,6 +19,7 @@ export default function Sites() {
             <a
               href="https://aquamarine-ganache-9a0961.netlify.app/"
               target="_blank"
+              rel="noreferrer"
             >
               <DoubleRightOutlined />
               See More
@@ -41,7 +42,11 @@ export default function Sites() {
           </p>
 
           <div className="btn">
-            <a href="https://clever-phoenix-af9d76.netlify.app" target="_blank">
+            <a
+              href="https://clever-phoenix-af9d76.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
               <DoubleRightOutlined />
               See More
             </a>
@@ -64,7 +69,11 @@ export default function Sites() {
           </p>
 
           <div className="btn">
-            <a href="https://poetic-cat-414ed7.netlify.app" target="_blank">
+            <a
+              href="https://poetic-cat-414ed7.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
               <DoubleRightOutlined />
               See More
             </a>
