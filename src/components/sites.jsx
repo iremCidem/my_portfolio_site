@@ -16,7 +16,10 @@ export default function Sites() {
             conditions of the city that you want.
           </p>
           <div className="btn">
-            <a href="https://aquamarine-ganache-9a0961.netlify.app/">
+            <a
+              href="https://aquamarine-ganache-9a0961.netlify.app/"
+              target="_blank"
+            >
               <DoubleRightOutlined />
               See More
             </a>
@@ -38,7 +41,7 @@ export default function Sites() {
           </p>
 
           <div className="btn">
-            <a href="https://clever-phoenix-af9d76.netlify.app">
+            <a href="https://clever-phoenix-af9d76.netlify.app" target="_blank">
               <DoubleRightOutlined />
               See More
             </a>
@@ -61,7 +64,7 @@ export default function Sites() {
           </p>
 
           <div className="btn">
-            <a href="https://poetic-cat-414ed7.netlify.app">
+            <a href="https://poetic-cat-414ed7.netlify.app" target="_blank">
               <DoubleRightOutlined />
               See More
             </a>
