@@ -7,8 +7,8 @@ export default function Infos() {
       <div>
         <div className="width">
           <h2>Hi,</h2>
-          <h2>I'm Irem,</h2>
-          <h2>front end developer </h2>
+          <h2>I'm irem,</h2>
+          <h2>front-end developer </h2>
         </div>
 
         <p className="text">
