@@ -94,7 +94,7 @@ export default function Sites() {
 
           <div className="btn">
             <a
-              href="https://poetic-cat-414ed7.netlify.app/search"
+              href="https://poetic-cat-414ed7.netlify.app"
               target="_blank"
               rel="noreferrer"
             >
